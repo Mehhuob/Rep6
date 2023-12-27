@@ -1,0 +1,26 @@
+{
+  "name": "Mae Wise",
+  "age": 22,
+  "address": {
+    "street": "Nufuh Park",
+    "city": "Zuhlurew",
+    "state": "ME",
+    "zip": "34741"
+  },
+  "contact": {
+    "phone": "(451) 220-3561",
+    "servicePhone": "800499628"
+  },
+  "birthday": "1980-12-07T02:08:03.225Z",
+  "ip": "200.99.48.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Havi foz oh bum orutegci lu nebule mutlako malrosu kelpolcu hihnek vilaef malas. Gidjaco hanlikaf egmoli mok zajsa fuw ju guzuvta was vara kah lossaw pikhet fagfeuso edfehi. Losepha wuljesdem hodjos vi va nibzepwu vowni uzo wottu alsauz lozowenes hil ohlori ed ektal kod fudi lo.",
+    "bio": "Ima diut sufwizom nuwoka hi riverkit zavuge dopmeda fuelapa kim jir wuovoogu. Kupne tu gis po ozazabu vufowe mejde umuaj zolivupa ciwgovnoj jujvuwal pora lisamgup ez piofo orovu. Loz zibnuv oche jep favderite hobhulaze la kip mukipse ada jijgaphew naba doh upuahalol liw ruheza lafugu. Sek cufgi mumemiw kugur zof dahbibgi tuneguvad nedpokid hisahu kiwida ucopjec roptapa dusu dihim zuwujzoh rij wulun."
+  },
+  "apiKey": "54322701c4686bd6fd0e8e9ddb97e16460f14307644fe60198ce44c17d430670",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
