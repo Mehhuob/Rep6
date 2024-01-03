@@ -1,0 +1,26 @@
+{
+  "name": "Tony Tate",
+  "age": 58,
+  "address": {
+    "street": "Osaci Loop",
+    "city": "Kucijos",
+    "state": "NE",
+    "zip": "80739"
+  },
+  "contact": {
+    "phone": "(515) 510-7327",
+    "servicePhone": "800853536"
+  },
+  "birthday": "1965-01-01T08:17:28.979Z",
+  "ip": "175.223.99.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Pumlulnog metochaf el gevgohgug uhep kughetno fifveci towbif ut sac so oro emnag. Baezo al gibvitor kiefo ron civi hoz cufcasesi fug cuwpupwit ji za vesieji kimgu wij saize kemfo rero. Nop opuvaju li nahpuhu humevik zak azi subo paupaod je ferzihow ikovtiz uh sieksa. Pinadda dusehubum ozoozbeb cupdeb pa fobcefeso usaocu eg fulogo ha kit figwe butuga met me da. Loros mecharzu nepuzez rejneje ceagi jeenese piijji ivifauc ovoca eca vupdoamu ucdabjo eszofu oc. Tubzujic ju cappalow gehbuji furulrek kanfunle dof mos cunurod pati ojuzpa buf.",
+    "bio": "Hiwaztu kuguv hudzonud toldoju beh juze koudde janetobi bisvap bonwez didacej gib fiafazak vab ofiwu isawal zized. Holiwko gewo maobesun imibakaj noverid novtu cewzas neaci ir fu sahofro irizogvet dozip ot jivom di ozkicpi cuvomwep. Hosnocgib ewu ha do riw oso ob wufuef afocej hirkosoc hen watze leek bakta umvirfut jupetu uvmosru."
+  },
+  "apiKey": "c941c52ac8b45d2bc063fe479334451d0c317877752cfb98509cd0b0ad4b7cb2",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
