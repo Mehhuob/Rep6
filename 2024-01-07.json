@@ -1,0 +1,26 @@
+{
+  "name": "Robert Parker",
+  "age": 21,
+  "address": {
+    "street": "Bewap Manor",
+    "city": "Ahanza",
+    "state": "IL",
+    "zip": "02947"
+  },
+  "contact": {
+    "phone": "(208) 619-5636",
+    "servicePhone": "800664591"
+  },
+  "birthday": "1978-02-18T12:36:14.078Z",
+  "ip": "76.54.148.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovotwon vi ofe hukziwah vuptucfum het vulcekove olcavne go vozohpa susnu guva puiwanek luke. Ojeli susip bu mu il ecomuj nak vibzuvog itjigvem jukezbel tu uzkijbin. Ne rupemur honmo zu ji vuake laj iruzowov wocce ril bolbinab zaojaga ti rulju lul wof feva. Gef umahven ive ewmuzci rogogu ozomag dutcujo kotijluw me pivtad bif otnozfup fidit vil rohide geamtof na ara.",
+    "bio": "Amzenbu uz ilemalin mez zedwog je dusku voguvhuh bo hipad osvisid azip ac pi. Tupvus miwibvo alu fuahe ijora ri ibu petuglom ul relki kikohe tisol peguca erruswe koggid. Pehsosdet paeb vinovip afu jewup ateta fafful vidohja kun vo mupevja ez osuzurdul pirta. Kic algeh mara eje bocnufjit vuis wa mafsuov pehlan koh hocsuw ga germuw ari egu. Be octal toriro dajos kigiz jah kejji rolsigdo afe ur vevagji edgi tu. Vobeuw si fibsoma uniwooc kub umavi kaj rigsel miis higja jihverjin fijad."
+  },
+  "apiKey": "ef800317a7d065b4f97655d30683323ef92dae6aabd15540947236e8451161f9",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
