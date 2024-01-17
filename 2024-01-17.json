@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Harvey",
+  "age": 45,
+  "address": {
+    "street": "Humen Manor",
+    "city": "Mitfoda",
+    "state": "DC",
+    "zip": "64473"
+  },
+  "contact": {
+    "phone": "(239) 820-2460",
+    "servicePhone": "800481332"
+  },
+  "birthday": "1992-01-10T08:21:52.963Z",
+  "ip": "134.45.232.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Geohni cejavrek acaddo wuplos mof eggofun angaw lo ana ejaewobu beecsi mo ze hophi hep hogil. Fo wok aciolafed meani jovu rak ket jaec duron zopsa bebug ha wol irvuf pojawil viwim lunnebelu vonnuro. Hum dabopjal ihuitozuj tasba tep wiwu zehkabop ecpi ku ibvidbo deon mek olahu.",
+    "bio": "Bizvup ope ulkij ub untep vev aj ro tibufpe karpubken nuushu kusfo sehoh bafwe. Degimhe pawzu befasal wirvapte woh dom mozfenod eg hudemez mougo hi rej bimun amcoca pasisiw kah feg ji. Ruzen veb bela aka juma pud duv ogatci zufseal hulfolhov hacamahi hubi mew ucoficger en raski ren ok. Movsu zevhu lubeigu oj cevuwu kuvisob fuki jokog zuig ipna etnibpow ege fiitve im. Gedfi dostam wahow fuvjab op midagem giaf cor imasazhi gotimi sazamusu jenez vop codheli. Ula zilis menuvucen amtel ni orsas sihatgu oje zeviv ak lapdes epbeh. Oso awilir egebolana sazvozve bon mig ma vud ke upuweja muzdo cecefad mostij dirwowzu favened colupiha gijih."
+  },
+  "apiKey": "faa0fb3073e53b86c5fc6f0afb11137892dccc0bb18120e4f39681a4c98f8cb8",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
