@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Parker",
+  "age": 35,
+  "address": {
+    "street": "Iwifid Ridge",
+    "city": "Pahaidi",
+    "state": "TN",
+    "zip": "34044"
+  },
+  "contact": {
+    "phone": "(887) 330-3031",
+    "servicePhone": "800568218"
+  },
+  "birthday": "1980-05-27T06:08:56.127Z",
+  "ip": "124.163.22.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Je me anowu vulhud losdur conokok hisisa neez pevu firraga sapleh johjeti. Cotipped tujiddo cip ticro ho nizjoki da zufpog reb kihuwi su norgias. Da judme kueji balabe rorekto fa fekotwa pog do sirutenac ogoid zo nadufseg kotica hos gawoga wenjof.",
+    "bio": "Am wuza egezedim not kog lodbajok falzas enuzacdud come vuzugaf ogu taomi cok irwipav uduera. Efelulpa kuffoizi nosarawu bu luha vuz meffo caof pe zijja ovewip nam ro ra hihke du rugnivol acdal. Vip fep tilusivu appis fe pofrit jojbauma bukuvma petev gagnalra homto odmo je ug ganvajgah eceku. Gawpakni go sepuf gu fem wek dodsowusu haduftus cazawga wo umjo da pokoko."
+  },
+  "apiKey": "c98ed1d3b03a9047bd529ffddfdd46103fc9ceb25ae45911b05405f4005b22f2",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
