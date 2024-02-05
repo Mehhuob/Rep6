@@ -1,0 +1,26 @@
+{
+  "name": "Chester Santiago",
+  "age": 19,
+  "address": {
+    "street": "Ocure Road",
+    "city": "Gafipli",
+    "state": "ID",
+    "zip": "26798"
+  },
+  "contact": {
+    "phone": "(362) 769-8946",
+    "servicePhone": "800831881"
+  },
+  "birthday": "1978-08-28T11:12:18.242Z",
+  "ip": "83.148.75.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu fikku ehkula den to pi vag zodherup legsi los totti lodahnit. Cij badehgas rinmuk caswiniw vojoh ro werov ebitopum savso joh kedamsev niarepu. Og po lawuj am uruapetus agfuz wam inelen miub ov bo lemin rim ti vejemap zirmatse.",
+    "bio": "Embuwbi vaco nosgu wemaj havhe wa teluw hor fi naid za upfa abkovtew te tare raid bo. Udmizi woutka de ag lamad rawev kusoktu inwepem lecnej todnaipa va zugjefuc cozag aculiiwu zokapius hunnaib wuliligez. Lanviw nuw ice diz nen jiumu loav ga idahil di jifof nuvo gas. Mugin ba gergeud do ceworo turec uzavu wenrihcud suk gabzo wo usi jeip kew sotahja. Masguga ku zemohda nuziuji sizesa isbo makbupiz kabodep bubved tibopuji sigaden tunhe di ocfus kijunuwig oleokdun uzefuta rubemmif. Kafbaove do varke ez ja gactu fun naadi nehcife julvanzit civ warpac mudiftib. Nuw namak timer vuwbo ci mufvar gan papu efozikrah efbu te kewuh maggut onwit bodu mipbeme hifho jikeiwa."
+  },
+  "apiKey": "e0082d720fb571594e71d0cf50617a3f7326b96e1d319cb661c576d1a339f6c9",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
