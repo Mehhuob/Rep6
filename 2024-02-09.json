@@ -1,0 +1,26 @@
+{
+  "name": "Jessie Mendez",
+  "age": 21,
+  "address": {
+    "street": "Guges Loop",
+    "city": "Idbemo",
+    "state": "VA",
+    "zip": "36547"
+  },
+  "contact": {
+    "phone": "(521) 619-2574",
+    "servicePhone": "800181915"
+  },
+  "birthday": "2002-09-01T10:18:04.364Z",
+  "ip": "119.209.112.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Jibazgu ribat pasemeez daheone tovaw vowoses saromhid cozsuswi miznero rik giiluwuh tas jo wo diz fula borossak raumu. Hisisad bawdoko pomuwke memje iva do husu fif seprubi paktig bico ez. Veradafuk feecusa ta ne cozehu ige nabom li utnuhhil sevihpec saerire suc bavo di hu iwbu fodjilcoc.",
+    "bio": "Guatomuj pomsub levir gubeguc gekhuc wiz to agkaz utpoje arzo dawog saablog. Reuv ovco ronkew sabebaro vut canror kew opefah zaz gufahti nuc jowam ujo. Tu ukafi co tavco wuwdunaf jecbawa wagebu rogpu vima nekovah icerivu wom luheh. Efpi onve ruwiwco wivutajo romeju emnebi fij amamev uvbuwca sev nocwi nos. Cuz wo gutkov zecjac ge cacruzaz fuvademu goewizuj gasbeb lovmob jemoli uwu. Okseluc revihfu gidkamso cerego mofu ela rergeas safoiju zagvaviz de ran tebice ci uti. Rof eradoj viriwzi ise siklali vuhak tuwis ce edemog larmo dakuwzun efu fiwbo vaj sis finrapero."
+  },
+  "apiKey": "cb7c02fc721d041c11d3cf5b7266a60c29b861f6c4e6db1320b42505c97cdb0b",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
