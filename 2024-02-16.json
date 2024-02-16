@@ -1,0 +1,26 @@
+{
+  "name": "Esther Obrien",
+  "age": 43,
+  "address": {
+    "street": "Ihlot View",
+    "city": "Hekorsih",
+    "state": "MO",
+    "zip": "90176"
+  },
+  "contact": {
+    "phone": "(419) 878-6242",
+    "servicePhone": "800738411"
+  },
+  "birthday": "1969-11-10T09:55:39.416Z",
+  "ip": "93.15.125.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Pej du kedtaomi popi enazage for bigiep ahda muj ebavial ufab esvukpa biamo ag. Do roto jir si peevde rowho vejweep piuwrag kelicor haciw rivirak uzikiodu apusuowe ko hi ogu detilo. Surna zusaac evse so alnewcob reemuus barjooz oje ledavim rebcibnu ictivheg bocovita wu kesbenet ruwsuki ubiomeni ula.",
+    "bio": "Zuzlug wugite bivumeam vamdinaj ce jaka ig taguli hemluc ov cuhiin cozo uf suaz zub tujoksam. Zituata vab otahiguz isjudkom cilhek ni vafina zaehud duf gotsizpus lo olacen. Ulakakvo obtammul rajovnu atiswiw ewnercup uraja vesuw dujiedo tatsusad wusozwi belo wani lerinogi ramvufan gufjed."
+  },
+  "apiKey": "1f02e42c05f633990184ee10a499438667e4da3cb2ee445b6ba9bd663a2b26d9",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
