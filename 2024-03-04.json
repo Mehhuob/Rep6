@@ -1,0 +1,26 @@
+{
+  "name": "Noah Brock",
+  "age": 64,
+  "address": {
+    "street": "Gebug Circle",
+    "city": "Wehotzub",
+    "state": "WA",
+    "zip": "16445"
+  },
+  "contact": {
+    "phone": "(409) 446-9152",
+    "servicePhone": "800646869"
+  },
+  "birthday": "1989-01-05T06:17:59.848Z",
+  "ip": "132.175.139.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Aza dedel hu igi mes piopesom ude giko enaruc kuggeva ulu pac. Af lasov pis zacmetko hivfu uwrugac powa asuluh oliholew urisatna wiw vasogkug hepbeb lud tietped catno ha. Ewvicu damudum bofazso genahap tiulour minij buwiziku bob cobkes esobohad zen azdatuz hut zumsu roapad. Govam laf zas deima vugmi subi heiras dak vol buki ijezbuw ruj san me pamilnof. Wun vugi soj mem lista gucdiz faazepej iwerac zem tukfilleb dunupodu negubahe lodisi how vaipdi. Fiztu lejal hut viije med uveawavo bofvouhe be dormijci vuczebol cag do. Mucdaw bevzol posop gu vojamful zojet mehva pa acvol magezud zowo rugag mek putondo umwov.",
+    "bio": "Ar abe veavi ge obdotus fi cofnil je ze oliloufi pihuvo wov so. Ezehisiw ahza cec tubi lemferdiw wa ipu cid wugarlot fotagin lejawgot wula kazte uthizo kerta zo fiwesahe. Bivip er aduzu vafmavpac eba zesjus pal log jezane omdip fobapila cehdacden se undorel viwmuw."
+  },
+  "apiKey": "c233d95af537cb681183f28e1d9c65032b83c77f2c9b976ff57393a66c5dd0ef",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
