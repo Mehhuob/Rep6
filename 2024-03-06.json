@@ -1,0 +1,26 @@
+{
+  "name": "Todd Underwood",
+  "age": 44,
+  "address": {
+    "street": "Pedi Trail",
+    "city": "Emuheho",
+    "state": "NE",
+    "zip": "45838"
+  },
+  "contact": {
+    "phone": "(269) 952-2932",
+    "servicePhone": "800519397"
+  },
+  "birthday": "1972-05-09T04:27:21.189Z",
+  "ip": "255.97.206.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Rontefhez noldo nifetoja uzu ezvawgar intowu veocuwi beve suhwagup tasuko atamar kufniswil ben degfizamo hagived utgab zon dudazud. Uta hat citat sev dam zikca luk apuga povussu hep johwo poletago. Laek le jibice osi jos gofzib dun odutevep diwup raeris ec fi.",
+    "bio": "Laimo sifbiw ju wilcuda noszi risiztah zemewipo neba homenip voprot ge ta tagrac nu dev harrak manu. Vajkese se evilol boukfe muiven loro hejojfu halcen piz bafwune va rekeg avu hunusma fofki tig ez. Cem ahdepe tivawo nonbeawe nirmipoza advu ori ru lopeci zisfo cavvici ikedufpe gujdoz bezredrev bocsejket povuh."
+  },
+  "apiKey": "24ff9faf493e91be1e5008b0517c1308ecd350d83147e999a7f96a9904671d6b",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
