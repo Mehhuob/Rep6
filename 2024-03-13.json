@@ -1,0 +1,26 @@
+{
+  "name": "Myrtie Page",
+  "age": 23,
+  "address": {
+    "street": "Cieto Path",
+    "city": "Izuacju",
+    "state": "WY",
+    "zip": "09115"
+  },
+  "contact": {
+    "phone": "(654) 850-1424",
+    "servicePhone": "800668141"
+  },
+  "birthday": "1971-07-26T07:34:18.687Z",
+  "ip": "92.95.80.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Za sut lopiwal fowisoku ji fegil fiwhab lan rofbol okalev ocinizwap atutuh oheav. Vedsu omi sewuhu uc isomeznu potfoncip caf ovvat uvupo cin ujegecnul waholod irfed. Alcefu usfe kolrulbaf pipcafdu pigir iz an kidti juijmuz huz of ole cateva ri tugirat ewakoh kagfoc gezmu. Tuuf fidido raveuju aw umli cemhive tuvew vobad nifrumiv fowuf go oz.",
+    "bio": "Guici ifgijwet eskuelo nemaseku ihogalog kikjankeb pov dece fa dutotni pafemo zo moraf himu. Nervude pit cu enruhis dimhil jetom hadabawik nu zifus okho ojavasdin iwuf cu fuh ukweb emomo renoin. Cepal guruj ratihu ame renocu piimfo nakcifo uw buji tevid huarlog liha laliwe. De hakuv wibolun ed lutac egaja ifsabu wuffoc genbi uphe vumiw doju aficofjen."
+  },
+  "apiKey": "5f4f9005d90ebcb22a876dc068a7a5507fdbb403bd87ebc5ea0b34db1b7ab603",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
