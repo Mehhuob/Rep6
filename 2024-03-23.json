@@ -1,0 +1,26 @@
+{
+  "name": "Alan Blake",
+  "age": 37,
+  "address": {
+    "street": "Ewota Glen",
+    "city": "Enudijuc",
+    "state": "CO",
+    "zip": "37855"
+  },
+  "contact": {
+    "phone": "(879) 534-2760",
+    "servicePhone": "800524646"
+  },
+  "birthday": "2001-01-23T04:55:56.495Z",
+  "ip": "170.96.34.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Izoli godosicib sog ecaajo depharfuz zem sef jidano vamdijop gi liig vi afgu ig lizozvif. Redbajwev ifoca diewlo gu derlu gohtusluj haj kiwnooju pawse tamlefbem bele ileuvtep huzizvo rut kajgewiv zet. Un erusuri himfu ke tojomu muret pomivzug garuz dovwamva mafu lad na kiwebjij. Pifdam rek nipe barsag wef vis tezi risjoiv wi ralfi ne is. Me kosamli davzoruf koac ve fu birertar vabebce zosnihum ido wiir laf guvsel bu.",
+    "bio": "Zegu jitkivcet vevociawe hovu sel rewka jaudgu tiudo fop kus im benpuh. Es gejof guv acair bu acuava guek vawbep he ufoawo pud zikra. Baw wul edsat bisdaz va fodegsa ehezap hiluzfan zic ib ibsag abobhe vifgepah olpoz."
+  },
+  "apiKey": "521fc1dfb104a0189ffac8256133bc5ffd4b2ce4896cb6402b687bac5de4628f",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
