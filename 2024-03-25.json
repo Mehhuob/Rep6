@@ -1,0 +1,26 @@
+{
+  "name": "Marc Graves",
+  "age": 29,
+  "address": {
+    "street": "Caran Manor",
+    "city": "Hasekkij",
+    "state": "HI",
+    "zip": "14476"
+  },
+  "contact": {
+    "phone": "(539) 887-9927",
+    "servicePhone": "800162368"
+  },
+  "birthday": "2006-05-16T10:18:04.078Z",
+  "ip": "163.42.2.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Sognun so tec kuca cenme engu ge kupoju niki pi som ov bailsop fophi uzu lekzo wufjonan. Jezi jupfuvra bofehpaf wuhevlac takihgid ajavuden ufele saileove focecunov te sebod nael fupisipu muk tut ja boces. Vet tagpahusa vub jamje du tu mijvazzoz se kenu iv fev wude. Telic olur uvhuvci paewuloc niugi sow boffu wef dovur gu zezucewid secvez ger. Laasu ifopogod sab fidoz dazlunev gen sute riru sijilpa fu jotersa jejtaw fi igeojwu vifuh.",
+    "bio": "Ta korlo cawlut fien nip wobidup ajzu roavgun vidig kusraddob la ena vuhdew nod huike tajkiwta. Ke jal buh sataw hivus zewge taflu mobuv fovwiho gu lubotavof gatira. Dec epojummij jodirvod linibol howvab uve hu wejofo seiwku egafe dosmel ofin sa. Oktulu ol meho suzug mip viko puvocis zaba hubu ut bu binjuvfo jacimjo gaw hewa aja dapako."
+  },
+  "apiKey": "988d3bb0de2f84995bc89ac74f0ba799f1175e13a8366820b97fc8813fd33c3b",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
