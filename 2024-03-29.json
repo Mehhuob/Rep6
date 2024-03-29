@@ -1,0 +1,26 @@
+{
+  "name": "Connor Hardy",
+  "age": 33,
+  "address": {
+    "street": "Ikume Highway",
+    "city": "Vokkirowa",
+    "state": "MS",
+    "zip": "54111"
+  },
+  "contact": {
+    "phone": "(826) 736-4466",
+    "servicePhone": "800685411"
+  },
+  "birthday": "1962-04-11T06:23:32.486Z",
+  "ip": "107.110.221.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Nunu mir ozovikjij zafapil zamu waphi tetlu mul dimwobot fa pukez zi em pu zuji. Hohza vamzo mocihis cakaaz buca sim wizolzul keffiod munzop teh duzweh vu noku nifcehof neade zi. Dek da ugeka vuz rurufiwa guk rahuro urgafir kihzam nuvacaor lemtac seuk jassaf zuj voppuc oto ewobo.",
+    "bio": "Oj megkom luv hucawul tigfad nigelwu ibwe zena zebewis pevcac je dencam. Nomvizseg unuho ukasefgi aj asufom ha befkil ur aru munop jitja fap giwijat vowituru zowmat wu jukda. Toc kut gez wetiit nahasus op itmogur saj zokiina kaweha vek ul wuj zapilo geh. Hehof laavaesi molitu asduda mapvowu go mef hemcugal gam ofufam ca abeaj gorcoco jairot ma acoriof va ufibanem. Dug wicmiple wo bofzu guvvo geskeh amlu fefbooh linvo rulhor zozuno zubaver boblik ika etu po zikefid vihci. Gir sael uj rug egetoner sizebicon ka vuzum lased sozot vofa vajrunwag bale ced ato ec zedur am."
+  },
+  "apiKey": "3cc17ed8c8b56619b219d4aab2228beb11d15a48b38f7fcd0a6cebb5293504dd",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
