@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Jensen",
+  "age": 65,
+  "address": {
+    "street": "Usohu Path",
+    "city": "Cirmamjas",
+    "state": "GA",
+    "zip": "00087"
+  },
+  "contact": {
+    "phone": "(801) 845-1978",
+    "servicePhone": "800244194"
+  },
+  "birthday": "2000-03-06T06:03:09.601Z",
+  "ip": "144.60.11.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Ha ri suk ri ofu hifrif lahalcol eroesin rewsuwul piloida efcidzag kas vawula ho ze. Jet rihfozjev kedtal uwe rardu jis nulwo catobaz ne rujirzi opoali recfepes te di ede dujrun ducnad filojaiz. Virweh piwe zi to evgako wackurim zi mijauz cag duv we num sojke sud be goida.",
+    "bio": "Joptat gi temotdag lezan sufogefa rakir can dubacni esfowu uf akemewiz ho. Tajimojit kesgalih jak des edaca abevince atugesif kijdam gikkah lu muwaspo po nelpahec. Hugbas bo jorca niwsu ebucovu isi hoba kuf ehraj jatek umunedu vaphepi fevi hoib nem. Sug ziw log tinohe zabpav diaja esinikli had ma kac hefib odaerid lamil solbaz ewi bat pazoda. Woumu tid niz eh lukmudni siabula pemjotiv rot mawut kakad hugof pohzec jiuvat ragcebba. Gutot id fijo epozo cow da im dukofu uj let ven kaw ezo hebjimco rib opa vipdufo. Wug bu wohahmo apa hutur bezbew tinbas unu izo titki tahpiga jikive petu kiitla bulja ce sec."
+  },
+  "apiKey": "a3da6496c1b6aa21c060f882f5d6f883b558f0b5a662d447dd947396364dbb63",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
