@@ -1,0 +1,26 @@
+{
+  "name": "Walter Olson",
+  "age": 51,
+  "address": {
+    "street": "Epokuj Place",
+    "city": "Figuin",
+    "state": "NH",
+    "zip": "28132"
+  },
+  "contact": {
+    "phone": "(428) 641-5721",
+    "servicePhone": "800642655"
+  },
+  "birthday": "1971-03-22T06:03:56.150Z",
+  "ip": "145.0.203.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Idapaz taakadi obo wutsu tokoja cisfe moka regvir kehnik da utialcel nu pigpuw pek pi ibpin eke ug. Vimurbo pan ul dev obzom sugub ikmarlac el ve gairhal ezo nowetji. Ap bafi ifeetufa sucofjag hal naz wezemiv bohegu bujbo difabdo cacufo kikca ujku rujdo gibebido cahihuc. Nupek kubuz ojrorag tuc ditowo nafgi nulcoc kefaf ti affo sekvavpan mutolu laji juvu neliroj dof hitoguk.",
+    "bio": "Relgim evi vimilir sapa juh igo lu zitip fipjal ha ivese fapi kod nonituk av pevzod juprup pa. Mizme wuos vaj lebe ibopusca jacafuz motuzzat gowo vavdicu godbokhe asefuucu neuku dijlebo. Pesco tuugogo owjet rukpanub nakjijca sa soj ehgidwa inenonuho sep dehegep mos ge efemulmup. Sargodmud guj feva opege zuhnug sam objuvi wejde fi saval mu pofrisa. Zaarapi epoal johpi aple kehze kiruw okacdug jufdah cerpoz infe du we rir ap zuneza muzet te afadik. Zacuf es hiwdanib fovbupip ugbi nowubpec ohoajoso hi wuguume awefi ge devorog bidih wuku it zowwuk ute."
+  },
+  "apiKey": "cfcbe536f210834ae160ba27fc3b2f6587cbe4ffe5b34e436f751ca19fce47a3",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
