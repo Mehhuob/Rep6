@@ -1,0 +1,26 @@
+{
+  "name": "Laura Higgins",
+  "age": 35,
+  "address": {
+    "street": "Pollu Boulevard",
+    "city": "Ozsifos",
+    "state": "MN",
+    "zip": "98268"
+  },
+  "contact": {
+    "phone": "(487) 730-3070",
+    "servicePhone": "800958153"
+  },
+  "birthday": "1967-06-27T09:55:40.215Z",
+  "ip": "253.232.166.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Suzza fizzo micetes wutuen cabruh mu valzo mebozlur lavbeizi tu un kiwtebpo muhic li bik. Ufbiwiv hapratame zewujil ge gacvaw gule geb waabfuz sa novi gibu vova. Lurrif zil cij telcal ujocko fuadsaf giz wetuwip fi tebho wehe gionoki guzu rusho. Bopakafa ba akmi igofelak fo ahgutup musjame dornete ripkegno bu hetuk lig femumguh ne valogog. Ku sibri anihauc garnuboz nuewbi ha awheava hucvave kic werfuwora izoem wavo afomapif va jac ipo.",
+    "bio": "Bi fazfizsum mipsupib gojefa kese cinado mupseh ukovi fagaboper za nilaz ho. Win ra otu bosi tiksic uzza bogargup ciji oto vapenfu riogofag fuboad lon wosoc ripduk iki zebo. Beb asupozici hadoula re sodorzis wizef zumoco owa ihsod cusedtac ezawilun hos."
+  },
+  "apiKey": "e9c7e6eb800d0e8b900dd879dc986128028ee9ee39e85ee596544f57ba7fc9f8",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
