@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Townsend",
+  "age": 23,
+  "address": {
+    "street": "Wace Street",
+    "city": "Memonac",
+    "state": "FL",
+    "zip": "83485"
+  },
+  "contact": {
+    "phone": "(627) 670-5970",
+    "servicePhone": "800325312"
+  },
+  "birthday": "1972-03-19T03:27:12.635Z",
+  "ip": "95.48.180.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejudoadi mopgur jimucujek kab juznog rit po balwu bumabru ta ek coel fo ihcuk lada fidizsi gawmib wo. Iwu owocecev laz we ciwhaham beafbun cuzteg kealu cazag so loojazu vebone. Dip ajev moz nuwrod fejabwu uhjukol ecojake kikpo alkukvob zu enme ijepe.",
+    "bio": "Mibcu ruughi nuzeki co buf fabufaco nikde ictefrac ivmo muz wam huc fah vol hoiju biwpaspu ose bagom. Rohepi kos tithez rurucul kuspezdad fuh wane piezrad webgepwu odo awjuj fuc. Fekaucu comil di bedor wakcigez duwmif ge reobinus li du jadpuibi ac fotwagan vanutaw ja. Urpu wikwij codih teg rocolar wusuligu sotgo emi ej do higilene wujsikoh."
+  },
+  "apiKey": "965a30ef5475558bcc8d3ce6bf0262d88ed70f42e32bffb712cd8808a2a79b98",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
