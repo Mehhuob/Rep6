@@ -1,0 +1,26 @@
+{
+  "name": "Connor Davis",
+  "age": 45,
+  "address": {
+    "street": "Kibo Extension",
+    "city": "Nedevcu",
+    "state": "CA",
+    "zip": "70589"
+  },
+  "contact": {
+    "phone": "(972) 350-6414",
+    "servicePhone": "800432978"
+  },
+  "birthday": "1962-08-07T08:30:40.998Z",
+  "ip": "58.4.76.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Fak si ga zu wuz bokuzge case bur oj verri oz saogibaz. Baom name zun pube vozonhac tofulil fijolu rab jov feabpen veoda ileepe sef zaeh za othun. Duc bijcew bamadfo peomowa lus towdo corijuv acsej wehme peifesas div go vufih nil avaboevi dukta ubbazcub. Jukan tonuc bepheguku bu rubsafeta ja padeve zifmi bialda vikug owutes afmozoti liubtev.",
+    "bio": "Je ruhe kel lu olbol kufniwud mi asaar aba roruzwe izivvi wo vebjuvci zo uva. Vehipuv jejojju tavifuj hezfice bu helic odcof sujretoc vo usgeb nanig fug lambiwi lahu. Damotgap anrioz doh vaifga lefwecdup hig bej vif hofgohut wa aza fo gekmuz nacifi rilcevot icmad dis."
+  },
+  "apiKey": "8d2f444007d76aab087d9bc2774e68e2ea18e8d6e7732cd06a044902a6b6ee10",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
