@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Schmidt",
+  "age": 55,
+  "address": {
+    "street": "Ujor Manor",
+    "city": "Zefbarbof",
+    "state": "KS",
+    "zip": "37418"
+  },
+  "contact": {
+    "phone": "(969) 249-9359",
+    "servicePhone": "800819717"
+  },
+  "birthday": "2004-02-10T02:52:00.014Z",
+  "ip": "215.221.67.4",
+  "foo": "bar",
+  "profile": {
+    "about": "To owialu ewe waob cezo palgoc jimi aro hifejjod kozbenub rahurezo ojseote jaca cemjerad bu. Liceram kizma rul potla figa sa bupe zun koflomliz kifomidu obe ver owka binnaci paemi vousnu dugnif. Zojunto tofipij suewmi feswekmu pom wi radiza olugafnud ekivap vezli cinin affez. Apo kaz pap orziluma ig bo hudufun susuhovev opi diw peleuwa orvag naziac natmeanu dohsuwumo hozru gejeeb pe.",
+    "bio": "Jel fotriwad okonu inaevkof ol so ezporog zobun nikuwi ke goowaju ese zaelorif jag pid woidi ridro ihojif. Li afa sostu ip farurelel sammu ub kaohi lucbal kugbokrat upetaowo zacava gut kazanu. Pafte kihetaku gehuru egfoso ti zouc kijajid ci cajko zag ge wutmubof fejarza cez ecbova."
+  },
+  "apiKey": "c610376e6e5e6ef37fb8fabd77e5fe541df3eeec6834367196354e0842782f9f",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
