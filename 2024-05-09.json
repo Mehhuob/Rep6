@@ -1,0 +1,26 @@
+{
+  "name": "Tillie Ellis",
+  "age": 48,
+  "address": {
+    "street": "Hehgu Plaza",
+    "city": "Tadjoego",
+    "state": "PA",
+    "zip": "63424"
+  },
+  "contact": {
+    "phone": "(528) 523-4079",
+    "servicePhone": "800441422"
+  },
+  "birthday": "1972-05-29T09:58:17.119Z",
+  "ip": "218.250.24.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Meho hah na wesje inric ganum iwwili rada hembur pu secam pub rerlu. Wo fo picig pihab feoc rozga vucrip su lirsavus cuok kodukif itifefur. Jubobi el opeado lami fontot fuleke vuoka ojoarno gozafken bo cufowi kupzuz hegfawet izufama. Tat halo duoka hubato zudewnon vomah azpimje vihzo use agvetuz mik we en.",
+    "bio": "Fiwsemas buvur lamran zu ozpehi uv jop vecefpab osihik mijezi bajiwal uh. Mim etefeuj otez zebab gizno zokgofi bapa loabme kopak lutidoc sonliap fupow pasnihozu been. Fov wowo vafabwu gof sepese iza tat pize ahatuvfor jibpe eva nehdeb."
+  },
+  "apiKey": "83a8414940b821197d86ee79e19d68b5d459485d169d58d924a75b3e8d86fce7",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
