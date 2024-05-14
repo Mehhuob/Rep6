@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Wade",
+  "age": 30,
+  "address": {
+    "street": "Nooda Point",
+    "city": "Vetadoet",
+    "state": "NM",
+    "zip": "86801"
+  },
+  "contact": {
+    "phone": "(268) 588-5410",
+    "servicePhone": "800412154"
+  },
+  "birthday": "1989-12-04T12:01:31.558Z",
+  "ip": "54.129.53.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Pa pa weewa tetiih ocnif pahawo kavanpun iwe ogi onutifi pabaf ej. Vufi upavoaz rispadoj sa eznu bago benecoid hokjulop muw hisco jubjezzu movrati wicel her ova zir. Fe buza dav rooh nada ummaeze buaf ruw pe bofkum ez ewagihsu im afficruz ewuho ma. Jovu varuw soguzov neujra fud cefa kiwrondah lale ga nufu hepocas buitamoz.",
+    "bio": "Ma pa kugod gudbefe ji fe lureoj oge min me kupneba avmak deif cupdi habhe. Riul kicnuh po ikoem aticukcih hiugajaw safduvmen su rajoz ju ucap juja. Cunzanjiw vo ma saf libdat giga ezhi ba hihonuh ga hew ek okinu tu ohowomif cuugaki zibvid potva. Udifeus ko pinuves la bizoja ej tewlesa wewmaw junjuho wafu tewziuv zafwedsi fihesob cujti hiowe. Abodav jidebga dabugse sefazata wocnis uke von dumafuw tar vogat kah kipulaf sizcef zacdo pizufpaf mubbejaw wubleobo na. Vugad utucav get ki oz lohafote ber nadmij uhobel ikzeb ve wafocuj huw wodefi dup wadomaso zo hus."
+  },
+  "apiKey": "e4cb53bff46d5d336121ca03c5ee1471cb10a7093566ebf9232c27273e0c43f3",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
