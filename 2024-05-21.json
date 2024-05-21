@@ -1,0 +1,26 @@
+{
+  "name": "Harry Thornton",
+  "age": 20,
+  "address": {
+    "street": "Uguwal Manor",
+    "city": "Lotazpu",
+    "state": "TX",
+    "zip": "48925"
+  },
+  "contact": {
+    "phone": "(410) 239-9595",
+    "servicePhone": "800832885"
+  },
+  "birthday": "1999-10-17T03:15:08.209Z",
+  "ip": "164.236.182.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Hitugvi bi ser iculiz ger hineto vu zapkav pahwuvnoz fi gub gob zefpasjiw vad mafku. Wasi wuhnor vudive sizzurgot reju ewikiziw kogsasluj do tiwsebo re fuas papvum. Vig di sobhumiv gut monkefomo up gusuho mah lamcozava torpu migkolo ijenaw roruw rubokubu zogta dag sif ewfuwih. Tujjisno sofo pad moczo tobrozlen bofer dacneg bawfovip joz boher we tiduc si wa wisa pa rag nemabaj. Pi paivo fuvo fuwose udeniz amadouw fud womsumber lezdukal osuwe fezsa akeorpup jinuw bojop make nukod. Uwevaofu legi pufo faktownug wissonasa mipiwo soduwa faituivi wocofedi foknevdes lerepena kobulkoz tel higdob.",
+    "bio": "Iba uh hiwiw fahi sehhiwus leg av tu ohurjor higwus hapza ni cisev pi. Mu ic hecwa nud av dedoh wo pabpoune daghe podien kisoruk vutiru si mekatsa ev elofe. Doofa iweicoba li farifu pavzuzhud sidefto fic futrup tararto anipedus ruha rovok joh ola."
+  },
+  "apiKey": "98eb6294fa686520edbc8b008cb2d595be619501afcf38d40b8e639526ca5ef8",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
