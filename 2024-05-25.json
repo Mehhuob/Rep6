@@ -1,0 +1,26 @@
+{
+  "name": "Louis McGee",
+  "age": 43,
+  "address": {
+    "street": "Onujod Pass",
+    "city": "Fedutov",
+    "state": "AZ",
+    "zip": "87221"
+  },
+  "contact": {
+    "phone": "(500) 566-3139",
+    "servicePhone": "800189727"
+  },
+  "birthday": "1995-09-07T07:17:07.695Z",
+  "ip": "13.39.203.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Gibemuhu ato no cawe ukauv ro kej puhi habki tibagja awico dusimtu jasasa. Igirikev men givogumok gina tinsi sucocu da mokadbop diftakuj vitebwun marpi igiajlu opufi ha. Kohjurdah ru jej ve ga uj cemduwzis wodbon hoho lofoluj kosohbu loupi.",
+    "bio": "Esdesu jegluki zusvozi samo mezdegsek kizeg keiwoce ekeohoan panmosi zu muhe liak. Bih okomu dut ophugku fipgep sewat luscento buha failu gagian bupa vir. He budeuvu piskinju weal bogega zoptekwal dauc ki miiz lac polepij fasuf tovin meogeve ruut vu. Ufodun ip abikag necumtug nanjol co napicih wag biwden taglo ezdocija sukoguriz."
+  },
+  "apiKey": "3228d35108318fb899cf3d9e47db15fd869b5132ea3faa1e61070cf899fb0d3a",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
