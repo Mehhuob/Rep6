@@ -1,0 +1,26 @@
+{
+  "name": "Bessie Schultz",
+  "age": 28,
+  "address": {
+    "street": "Ippe Highway",
+    "city": "Eruweptet",
+    "state": "AZ",
+    "zip": "07771"
+  },
+  "contact": {
+    "phone": "(988) 684-2802",
+    "servicePhone": "800849627"
+  },
+  "birthday": "1998-10-24T09:42:53.501Z",
+  "ip": "95.64.81.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Oje mez kojme meew makew tawpuwko vogkoj doucaupu lobihu urdinca uv ril tuwluruw gil. Napci zovojof nic gapen fabriv vufal huf za silpolul oblu nogce wemdujme tuw. Getkaafo vagubun juhte gebjod jos nihjajo zibe olo dimcet uno ti pasej acesezuw huclipde.",
+    "bio": "Jarbarlu bewoteb nin ub musfi hinemoz zin cofirvez tibadke putono kendo vufesro. Tez evenu ta gu vip dico rikepzoc ubievojuw uwkeskif ak litpa sa dunon vavtik ep nimun neofjaj epnug. Vufewma viaj wacuku pu lunesno nupfudim jo rihpap hokazo kadar defe golehtow re azefuh ijeuhi. Tuereav fire unukizeb ko ma wu mugaso mofib ron po sagijuju weebes aswetoz despatke tuwotebif bugcumur. Oz iz merewu sudiiz miphaw tibosfuk ulenaem vuvaj tahfa vibuz dohe raprilte ejiihe afu ota geblin. Citacori jorjeut san cuw ocezu uklu bevusoco it vazdac pillej mot jijajoti fi gece igoijo bekej okemumika."
+  },
+  "apiKey": "148e8d3f784d39f6e3273782e33df6c5d2341edb4babf1f48bbc6b0b3576b354",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
