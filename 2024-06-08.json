@@ -1,0 +1,26 @@
+{
+  "name": "Mark Fox",
+  "age": 32,
+  "address": {
+    "street": "Mumzeb Heights",
+    "city": "Zazoap",
+    "state": "AZ",
+    "zip": "52303"
+  },
+  "contact": {
+    "phone": "(384) 899-1792",
+    "servicePhone": "800268672"
+  },
+  "birthday": "1966-06-24T03:43:21.271Z",
+  "ip": "106.1.70.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Nudjelo pi al nat zu hekgak bu cicu nusvoj ufbow vos osparoc fivham sesrilise jevugun zabeckaz iwo. Mihatid diusu zeh ozezoztil ohuke ciesnaf li gerasnob sire hapo jujkic te gigparzut hip. Wallen ribu nan fafako zapesu jezut kah te vosjamwa ze ozuli lu bij nov seru pon uwponec devsarkuh. Webdut va hiaci eduemevu put ose nu nogivloj of warsonu montigva elbedah.",
+    "bio": "Amefiftu dat wuba dugo seulkul mumuf penejuw bo talko jav huvfenet adsaflup cur fek hewmuf ipilibba wus. Bi tujib jisof lav ujivukiz tannaw veb to rojaco zob sizhumcu pig pozaeg wivpaluk. Rezzecwu go pamfobu ruc siuh he emepak nuk jemina pasuud atovuh ifu afi. Dewufbi operojoz za hueta rupihun moud azori pubheero upo zuhfo zuwlab vij senetefed orwi pudkol. Roferad ehduur uza culcek bupme cujtupsep pika linej foop ced sa hivaptuj pu moh locriz. Gudkef kadvi rir me at fah wejfe otaeh salad ravuliw bohoow mewigleg ve so tu bafvebpod."
+  },
+  "apiKey": "d337e6a9de12527a6f796f0f543b9e493d8867257a172aa75c442f54337f85d2",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
