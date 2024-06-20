@@ -1,0 +1,26 @@
+{
+  "name": "Elva Torres",
+  "age": 57,
+  "address": {
+    "street": "Eboti Park",
+    "city": "Busuduta",
+    "state": "NM",
+    "zip": "00546"
+  },
+  "contact": {
+    "phone": "(207) 383-7093",
+    "servicePhone": "800453181"
+  },
+  "birthday": "1968-04-23T01:32:16.651Z",
+  "ip": "29.33.93.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Kis foluk lan ted bunod gospaje buar lobeca mu dohnuvu alo ponuwkog gis. Ohapak rem juceko le fanobe olu jibaju lupuwdut zuczogu buiwmi mubid bo ira mosan weir. Fad eseciam vaip goiz esaci zezi pazgumep zova vutu ge ip zesu ase sizzotig hu vafu biwjibuj be.",
+    "bio": "Kowegiilo davihid horwo ragil nos livcoh fepi laceudi ro rem li sof. Hev he hanjup eba fij gobfolat pucoduv rovmar lal diflub wanhad daridce wapdohusu. Niel derte purpoifa butek lo rihih rotep da noklasep wi cimvese jeztom."
+  },
+  "apiKey": "c5e9cc3597aa4be8155ead9ceebe6b80a82373b9dcb4b644fcb1d5bb6629159b",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
