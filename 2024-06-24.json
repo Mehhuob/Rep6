@@ -1,0 +1,26 @@
+{
+  "name": "Warren White",
+  "age": 27,
+  "address": {
+    "street": "Sozman Court",
+    "city": "Kiimce",
+    "state": "MI",
+    "zip": "31376"
+  },
+  "contact": {
+    "phone": "(548) 837-8811",
+    "servicePhone": "800963639"
+  },
+  "birthday": "1990-10-05T08:25:21.113Z",
+  "ip": "91.164.102.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci new janaf fugac ozouga ricmuro jihotfic hurugfev zof tu luz jeric. Walo vofawneg uleda idaku pe botowim mol viakdut opu sef katunca diokuroj mittephen. Zifohi pesutru deza vep kujwafapu heka alihotip ricpuc jepobi wo wagriru zicuf.",
+    "bio": "Ofoolse wofal moceb jothope hi hehabaj sortu neiguje lehoto vidzikij wecju je fekimga laberuho wivir have tuha. Rofes ku afetirov opo nunludih he obofenbu gibewa silomem folka ranjit jeamju tohorci. Da uke iv kipati lobput dofezved gic lufal lu lurcen jihwodwe nocapikof. Witaad jub herudwu ki googe pezek ceginkod gefaar zi co dahpu tu rovep vu ov se."
+  },
+  "apiKey": "1cad084910aa3604c454951f109d49b094bf295a4fa896e413c6499a2534c023",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
