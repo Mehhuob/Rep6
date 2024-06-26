@@ -1,0 +1,26 @@
+{
+  "name": "Anne Dean",
+  "age": 63,
+  "address": {
+    "street": "Nabe Drive",
+    "city": "Piumajeg",
+    "state": "NY",
+    "zip": "46604"
+  },
+  "contact": {
+    "phone": "(201) 422-1239",
+    "servicePhone": "800566926"
+  },
+  "birthday": "1985-08-21T12:35:54.732Z",
+  "ip": "17.220.196.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Kigawi dajep wid bojbu injud ipeme beewa vela coli lorepcok miji recnurlo. Zulig gow huwivuh bujeziok geahe regim isipu miwpuici pok rerat kofanril owu mep bifipcuj tewig. Cuwoz du be zi loj goete not wo cimizvo ruc wip sa jah rocwulgod. Kodorec iwosiz woboj dogec vipligoki vogo wihew elbe judwihu zecij nudigu mifapco puhkazfi zo ukirufu cudene vofpiv arosu.",
+    "bio": "Mo bazruos hemtut gewwozpa wesuwuf so up kefecuk ko fup ta ag vuzkuga iso maj seovvo ziakvus heret. Pefnam dozpu pimido poede eprof ukooda ajakid cog por tikwockig mog cokuf lolirmom sosimaj zuccamdu zeswabu zomupsun lozcu. Ic het jeb avwer juza wik otehi gisirowi amu fosjab bavvi vupatfa poolted cozu zewovzi buhetavit iwsobwu uhigiv."
+  },
+  "apiKey": "4c4261937094de3f270bb3619e80ce15ab99aae423f0505b93b76dfa760cd6ac",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
