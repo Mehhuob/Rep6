@@ -1,0 +1,26 @@
+{
+  "name": "Roger May",
+  "age": 40,
+  "address": {
+    "street": "Ziset Avenue",
+    "city": "Suhmapke",
+    "state": "NM",
+    "zip": "20213"
+  },
+  "contact": {
+    "phone": "(542) 748-4479",
+    "servicePhone": "800894353"
+  },
+  "birthday": "2002-08-11T08:51:11.267Z",
+  "ip": "25.127.205.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Zavlekjo ewe bef ded rahpaor hududo su nepe du gi rifu te. Mimekozi bagkigis inute ucfam jutsagol fazfaag vo sasa hu buksurez acses mafupab ulukwo muako duz korzetab vanmab ledcov. Tiisi debtekib bovfow ver vinarier wo owosahu wihuud jogabdam dob kapwe vin.",
+    "bio": "Eme lejemuz batoro on ilfak gavril wo seosinu lav tubosha ipveabu pubir letwug eno of noj vu. Pusipmi mogiv gece tolkapjas niin ufor ze baw zowwaruw wu jeb tuzinjal okre bibgaj. Ratto fagerow fepgic feled ado muewe newekar gipcin azza ro ar ateote fircusi rivekebe. Wekrag cefsercej sefuub poreile ekwo naleco nadub laze waelieb tooga tipum robpahij tarikulib betu pet ridpe. Ezow rul judiuje goru sef gekmif lunappo ovpofcen wawmoat nuhusola lusihwe vokru li vofiborat cugomcu udimizsi wefgov. Gom sivwucpi mubejihi peib apoernog fim peheivu ruvec ce ohuvojabu go bo hermes."
+  },
+  "apiKey": "2b062709798e81a388b69cc5428b5410aa0282e5fdcf97588604c7046757575f",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
