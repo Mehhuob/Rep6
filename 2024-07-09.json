@@ -1,0 +1,26 @@
+{
+  "name": "Ian Cortez",
+  "age": 36,
+  "address": {
+    "street": "Urusi Pass",
+    "city": "Lateos",
+    "state": "WY",
+    "zip": "38826"
+  },
+  "contact": {
+    "phone": "(403) 316-8564",
+    "servicePhone": "800539883"
+  },
+  "birthday": "1964-04-06T05:12:42.694Z",
+  "ip": "83.22.108.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Tip ku aje ubu ujef azemak nepwo om lotu lul paj opi. Bev ulsuc kog usihab hen udivubu cusage jelverze baivdo led woj elhed fatli. Ra awook erjibon nimbazek poebiuc domega sem bi suvobisu kov oblaf kagekme judiaju hulre. Gon pi zuhoaj ic sahsuce pi silweba da gutvejha wa sefvisjup busgag idgu asacomil oske locelil lo vu.",
+    "bio": "Sidzu meduh zojac ur vawmu pudto lib ha hik zo ci opnihaz. En ajajoh dacad ub ifto feakfe mipignad zaoh ertur tifloz buhubga dupu. Wosfih cag of buesumu ewezeh lu ve uc or gazahfil ni weteg ziz ufema ti jacuwuj hucegoc. Epavophak nil cej osupohwig hawiwho ba pujhe wijimopa ovmakun nanpe refni dibgi gic poododo ma hiviliv. Zazjih apo ov kiwapsa wig pezse nevviija mucuhle rewlode cuk zotesa muci pigu iw coz le zojaflid. Sini ziwaruv kihavdec lehezinat mozotzew uwode cupgikkan cegja mubvuruc gukabub fuw wohawi it etobacpor zo di na. Ivuzo jokipacu soezus ho vopev egusub at jot humajkiw jafsavuv cahooke tome ko menulge uw ji mogosut le."
+  },
+  "apiKey": "82eb5eee8f84f1e2877cfbf2c7fe9adbda8dec8770589d26d4d9783b4b83f19f",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
