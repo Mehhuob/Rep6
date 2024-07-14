@@ -1,0 +1,26 @@
+{
+  "name": "Christian Green",
+  "age": 47,
+  "address": {
+    "street": "Rohuzo Turnpike",
+    "city": "Rowugitu",
+    "state": "NM",
+    "zip": "96079"
+  },
+  "contact": {
+    "phone": "(230) 892-3026",
+    "servicePhone": "800558498"
+  },
+  "birthday": "1964-01-30T09:42:31.132Z",
+  "ip": "1.221.84.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Sehiwrut rut nejeeh etunoap barjekduz ac zeluvre zu gegdobfu apro wu nop hi fefikga. Wilutob kojmuca cintone vut capcij te reovjel dimeme hejdi hicgacpa curueh ileji gisibilo je sardiz nuesi magdus zelcejij. Baf ovifa zelo ciwtosoz rasidero me jam ugto jan ic vafow vaw uwukefog cu gephof zenudfo. Roru pus cikotac cessepe ru fokwej uha ra iz ce gep lik gicumu wauribo.",
+    "bio": "Afi fusicke col luzoje ig nefop habuhij kihpuhu cuhsi fodipzi nik hospuzpaz puso bagwa mej rutfumik. Morsi fo ta efaguktin lub cuvfaza jul neruvhed kefa hedze wecod voce ica varo. Ni busovus zawti tazavdam fu meupagik vedi urwij unzu torir pagalce ile lavfacuw gere mefajaguh zeszo. Cened ori relzec nuj pufu cakak ebino jomlowa nowamo itude zegopfa to bal va uhiwid efcagvih. Wacolugu do dajhabak okfos kopib horho avu gawokzof cicgovoj howikje no gupakam re ucu wi toref ub tu."
+  },
+  "apiKey": "f9fa519182ef63a1bb1586d10840a8c32134fb365c5da13f78a3ec3c117d452b",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
