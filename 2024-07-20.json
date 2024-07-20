@@ -1,0 +1,26 @@
+{
+  "name": "Jared Goodman",
+  "age": 34,
+  "address": {
+    "street": "Olzu Place",
+    "city": "Kajuoki",
+    "state": "FL",
+    "zip": "59082"
+  },
+  "contact": {
+    "phone": "(364) 206-2268",
+    "servicePhone": "800576539"
+  },
+  "birthday": "1989-06-22T12:53:08.742Z",
+  "ip": "215.166.149.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Kufu dul vekpufbow gicgil ecipawow tikigo je hup saf ajpusut etu be pegzapgo. He zogovuij aj uwubimvul pizkoncoc ivlian zoalafal dop eba lel cetuuj itfab rimete mej uhu now memva rakdem. Mivjowek tah lu fo nekdaro pu waukizu pukidku ditwokuf nac rovi somnerevo.",
+    "bio": "Kuvagfa lu uduwacku enoor fihac hikakel if fi ko nageldo buhufoaj jogi. Gib bowmid iki fica kuvoval temar koih ic fupafuwi hewap puc suf lohvopnom. Ada wotilkin amfiwet ilievifal pav ih kusloti tinnim lel ujenutte zuvazesi joj unli emfa di vecbebco."
+  },
+  "apiKey": "7bf0363bd3ed3f9d61b469171c255aec07bda501d5aee735e7ec3fb348e260ae",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
