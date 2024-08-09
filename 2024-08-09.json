@@ -1,0 +1,26 @@
+{
+  "name": "Scott Burns",
+  "age": 20,
+  "address": {
+    "street": "Lozici Path",
+    "city": "Kilipet",
+    "state": "ND",
+    "zip": "76945"
+  },
+  "contact": {
+    "phone": "(340) 816-7700",
+    "servicePhone": "800698529"
+  },
+  "birthday": "1962-09-14T02:23:53.912Z",
+  "ip": "19.138.212.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki za sa cinwauki ogosap ivuihdi gokci daibso ifi tu hosubo ofguj huari tidricet hovale. Fuwomu hadac wagivma peehkot bijsuv ja ru fugu mamwo ikofab dustag hodki rapozihi tuefigot daw. Lokoug zobunnu soca ikeagfu uruommi uceolucen ba fiwvar le jozdus dapzor udajak uruizeah. Kop kul lu le owbu okdapuh owli wara foc juhdoda sirmesfir fojvivu mehsi dewuruc. Reujugez kepeeta jujle bad ulesoncu tucuw wafig zunom jo ge ufhac ijhegwar as oc al fuk gul.",
+    "bio": "Ib heilola pegjatju hij fiaci aleloof pot rapjan reckonum emiude tim liw eloilefe kafi ig cazes vi. Tu guja kajoc dimno zu caibu nembe vajijdub bec zispiv he lak sikic ve awetoton. Uc cesewe ri ko nadizap wowekelo duve no da we diwcaki zizilev nitejiku eca ehaup ce rajig."
+  },
+  "apiKey": "f6846d904704e362c1cf98e8f37d42cb99bae0c79093ca94cb65395cd5248fa1",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
