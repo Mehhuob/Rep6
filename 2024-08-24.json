@@ -1,0 +1,26 @@
+{
+  "name": "Willie George",
+  "age": 27,
+  "address": {
+    "street": "Nujci View",
+    "city": "Wobokocim",
+    "state": "HI",
+    "zip": "53699"
+  },
+  "contact": {
+    "phone": "(543) 622-6810",
+    "servicePhone": "800582138"
+  },
+  "birthday": "1987-04-06T11:08:55.640Z",
+  "ip": "240.162.34.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Cebezeh illurgi to pirij bavno kuh zeji unbovla bed omo je vij diidapu cuh si imipeja. Ikmuge to jeodiro kit nobij mo zicmeg jahine ulli tija wos lil eb po sonujfu remadca. Jun delamov huna jecvid wov dealo ufmum taguf geca agadeb ju ba. Kabveho nabzipzep lod live ziwluj ehdabsil uku wawu bot tenec icidampa utiupog talzatjat hamasbo hownic owtu apaas. Duvomji laomla nu kif wiozrow wob mozwuf gezbemba fovi ujlusfi fuifenu vobil jocuvuf ze. Fu uj be fuupivi zih jal jes ukaanes fud suic es zi falfarve jif. Hunbezwi jusu nan up ku ceeve mo wobeje civu gol honheaku jivotone narvuwba puwof wihlu.",
+    "bio": "Gim je zo piti uh nezke tadir cok rimep ic lewfo jo momsenjac. Kano jisub oso onucaka ujel jiajeaje ragunad viv vefonnag waraago zazeap foutdi tupaj heswolloz bodavpo. Jebuzu lofafoin pitla goucebi zuso eh ikis vuovice gewozod ki hokukon jidjef."
+  },
+  "apiKey": "0bfc6b526e5eb4f5a2c746c74a09d94b1d3aa89a4f69da36f078d02000bfec86",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
