@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Thomas",
+  "age": 43,
+  "address": {
+    "street": "Uwitar Park",
+    "city": "Ogululoh",
+    "state": "MO",
+    "zip": "75062"
+  },
+  "contact": {
+    "phone": "(576) 935-6668",
+    "servicePhone": "800758239"
+  },
+  "birthday": "1965-07-15T04:50:42.251Z",
+  "ip": "165.141.103.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Upha ze pamce ona ivu zuzarop ivo bos jo sosvewvit dabwik par. Ti dikja ago pevehkup muruje zumwefnus piwdipti pi sekusi faw dapo fazsala luneced tujmogos lucano gon kaje no. Kofnuj care zo pidiwmi wijfonoh herbezzuj uvoos ur dep voj gaun wus fup evgej nal mewfe roza.",
+    "bio": "Oraugi rimcawu kod atuge joru uv wifdav ja cogbassa ceroru su ebaomjo pak ute. Sari arewi lofca zosu nela hir zomhefvih to raon lilget alla haevejih ezinpe eku wetizibok pavbufwi. Efegevo bec agre conkiw sidav es eruv gudes lizril vacef dazohiji lusorno afetaz powe."
+  },
+  "apiKey": "1ae08e89776c62935447d0fbc7f680fbf87a72cb192b7d7221a985e0e5d653ab",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
