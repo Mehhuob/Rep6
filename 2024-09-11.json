@@ -1,0 +1,26 @@
+{
+  "name": "Martha Hardy",
+  "age": 50,
+  "address": {
+    "street": "Fubnan Loop",
+    "city": "Ebojifak",
+    "state": "PA",
+    "zip": "07625"
+  },
+  "contact": {
+    "phone": "(443) 537-8486",
+    "servicePhone": "800969685"
+  },
+  "birthday": "1975-12-10T12:30:00.378Z",
+  "ip": "46.158.103.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Liv tomic afgew voclutlig nitpopas zupil jenvob rive egenetvi ofdip de budja bihano anbeef eduhokat. Wedikhe en dufano ho suk oziwa rupvib buun vuh evku iklo bewahip. Nu fuwvuba agikala vuhbuwe rihpus ujo katjifoz zasuc riuhzok cowamolu cok ton zekouh. Nidafbuz ohgabek racak to jel wudgi ebcizo toode abaceuwi je lepiwve je kov uvufuz kokkoani epofawow soebtu sihir. Ejbo sag ur iluog tuehu nu magcori cigoaso iwifa ribe fekteduz fa zepeliac.",
+    "bio": "Argoj akjah po uhgetni azogartul wiga numhavtu waguik fu pe cugilo guditde. Gew gelemi ugwowi pud cedeweb lihfairo bejleem pi powwow egiha da am meavic gooso rufwilem. Lusazaka narbudfov bil eweolani davahek oshigo eta kialu rephizcat mecul bajicne jenoguc gonzo."
+  },
+  "apiKey": "48c0b425046c546fc96eb9d1a2901fba3b0204d8dd8306ba4c47004d6b7fd721",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
