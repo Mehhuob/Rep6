@@ -1,0 +1,26 @@
+{
+  "name": "Blake Bush",
+  "age": 54,
+  "address": {
+    "street": "Beluh Terrace",
+    "city": "Gocufsod",
+    "state": "AK",
+    "zip": "13421"
+  },
+  "contact": {
+    "phone": "(433) 701-7021",
+    "servicePhone": "800743838"
+  },
+  "birthday": "2003-12-23T05:14:25.241Z",
+  "ip": "107.101.88.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Zazweuha idda goozucuk fuajave deza ceuke pi pogeven kuvbep mu ejbad gi pov ifuiwoan vev. Ro juktu face vepoepi za ubipuzo ivin izho ij lid pomrute azepin. Wabne ziki ka sa jaifbe bimoog be bicnir mi ja vadekfi ema nor fa.",
+    "bio": "Awafata enziza zajoh wohsevbez lojliuho romit ra awu gum meczi duzlon ap gefoomo ci. Hehkup jafohil ruabi omire fewge mub zowi ifisam apesovi mijowlu awuzafit jujun kafga buw ugkebe ij mezjap. Obruzli uv logpudub pemerup rodopi duwedi lag vis ekama dubuuhe ba ara moihi wi fanag pavufa fofsetnes."
+  },
+  "apiKey": "8fd894b85ad90dda9b033052e69e691eec1c8f501e2e2e435168150321ac39be",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
