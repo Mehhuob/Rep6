@@ -1,0 +1,26 @@
+{
+  "name": "Francis Gibson",
+  "age": 52,
+  "address": {
+    "street": "Gejhe Key",
+    "city": "Hefardak",
+    "state": "KY",
+    "zip": "29032"
+  },
+  "contact": {
+    "phone": "(660) 410-2243",
+    "servicePhone": "800818182"
+  },
+  "birthday": "1972-05-10T07:29:02.867Z",
+  "ip": "143.46.242.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Judo cemew ti isudirju ozufezo hetiftum wewfezoh or wenti im itiwili sak kemois tihcu pulelofoh apjaasu debruepi. Denirerul tion lac ri ohirode vupo rilidup odaizse zeve fiujoja novitij ponu ru iwpu tofugoz bapevidu cuom ecu. Tete mu do putezof betgeluku avade cut pol gabecaihi fi fe capworob hugafon ve.",
+    "bio": "Wejo idho gopjev ni midhak ufauk degu sa hamezaci fusehguw cuvo fowfiwu nedpusnah zurod guclag sor ejnallud. Cimgoto kuzep fibwe ifa ge ekcepuc ov bebwivu jacgijoj seikufu vuweico tiajje wa paeze cusubco. Tim fa hoksuveb zacum dob waizo rewe to dur ba punmen wiruj ihokajoz rothabve ti we imoeca."
+  },
+  "apiKey": "dd28ab8323a8d761fc8ea0708058616804b84b768f0f99465fa56830fb96780e",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
