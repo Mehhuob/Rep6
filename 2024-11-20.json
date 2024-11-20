@@ -1,0 +1,26 @@
+{
+  "name": "Andre Barnes",
+  "age": 42,
+  "address": {
+    "street": "Taobi Place",
+    "city": "Ageefvi",
+    "state": "AK",
+    "zip": "39761"
+  },
+  "contact": {
+    "phone": "(415) 696-1263",
+    "servicePhone": "800587912"
+  },
+  "birthday": "1973-03-29T09:14:16.110Z",
+  "ip": "240.45.200.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Azi vin val guigeki ta kek moj nub fiv bel loot meju urba lasadwud. Pajo vu enroewu jemuvebe bi begdomude foka vomfika hag boc ludvohope nakbocgop jelzeg lolgopco sob torvutciw curetiz ige. Nu ru lone kadiga naevo gase gopdop vimvejhi ibourake diugabis sazvomwin peg cimumeug hilbapu.",
+    "bio": "Ko nogkikiji ma tokben cezzo zebne tozbofvic videt sef zepemima awu damvipo aviarhap ce winjo vezigwan ikuvo tutivohu. Eta mizsa pez piwtat fajo mun ingalez herpu popgi pu uhzihul uc mur. Gewne di ni baefu tuitu fonze ig naczu orucuhra nome julu vucwovel."
+  },
+  "apiKey": "dab1136aedb88cf95e5dc0345d2c8ce5249f602402f5d8f6eb6825d76a0c3699",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
