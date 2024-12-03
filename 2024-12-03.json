@@ -1,0 +1,26 @@
+{
+  "name": "Lester Bennett",
+  "age": 33,
+  "address": {
+    "street": "Cegi Lane",
+    "city": "Hicetike",
+    "state": "AL",
+    "zip": "04444"
+  },
+  "contact": {
+    "phone": "(914) 380-5599",
+    "servicePhone": "800515149"
+  },
+  "birthday": "1970-09-15T10:19:32.962Z",
+  "ip": "128.200.48.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Tog tevas fug fe apahu nis nipeknup siwzes le fime cew ubzalo hushagol gojo seserni wadef. Cu iv ajkowo kasnelo rogsew haztaz fumam rupwi huz sa tanup busge. Habrew abifojlu iruzodso suwomi bijjaf hodmome solrah ola falaruga jiceg bib reso.",
+    "bio": "Ugcihgi jajmica zib mizmev mipluco ittava maswohe ike iguuk bej sooge lanro muf. Tu pibum nes hekil pu pisvitih zo ruroduw kurci babhugdop funom ewezzi guvrevse ozoebozow. Gufa fe jaspig wo dosur nowuit tiw zasizta buko vewpe van cupomi zacsip retjitwi hul ezwo. Omuge avwodew gibvigro ta cufi hodatez gog sadju waena urahocat weguc uri zij dice."
+  },
+  "apiKey": "b288e5881e8c727eb74a04bfa42e24688d5654487a30025a9c38d636d7d94e2b",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
