@@ -1,0 +1,26 @@
+{
+  "name": "Ethel Wong",
+  "age": 23,
+  "address": {
+    "street": "Gaszal Junction",
+    "city": "Hupafpu",
+    "state": "ME",
+    "zip": "31064"
+  },
+  "contact": {
+    "phone": "(357) 588-4920",
+    "servicePhone": "800772681"
+  },
+  "birthday": "1979-09-04T10:10:47.462Z",
+  "ip": "141.93.67.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Fezmabu zuklisuf hup jujek sah peredo puug amihvaf na ez ri pu mueda naizi wina. Mipaf maf nais zoofliv vivju jar zudwa zuuge dojdama as osajoc fa ewoalu tanowguf bo. Kuufboh coco ta wu hafi noznoshu dibtis oc sa un nifga lo ko tobahe jer izel cas is. Ola fo tocik gir bofijalu ba deh imajisa hones bov nef ozu tibuf lulog.",
+    "bio": "Ra wurnugbe arlaf cozme icurulme jamip uzajiraw gelu ce tuorolev cive jubo lih hez uwaowewuw. Junah dal dicu afojed re nun wefzu goemu usulbu hekni harnufded imedaotu huvpigi. Acutuzow sobobanaz elducug ukzab kota eb vibduwap ti jukougi daw jas ubogile udizu."
+  },
+  "apiKey": "01a690f744a6406fc2c1b7178ef59eb6ecec156aa1c2f6f12eb9e53c7764c693",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
