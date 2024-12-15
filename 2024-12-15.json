@@ -1,0 +1,26 @@
+{
+  "name": "Julia Anderson",
+  "age": 50,
+  "address": {
+    "street": "Mabu Avenue",
+    "city": "Owuhwo",
+    "state": "MI",
+    "zip": "20327"
+  },
+  "contact": {
+    "phone": "(805) 931-8709",
+    "servicePhone": "800412321"
+  },
+  "birthday": "2000-08-23T08:31:44.816Z",
+  "ip": "50.125.180.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Paf naji tusdig emha agradjep ip istatec wal vo osuwup cakdo rikeod irnev nompav. Teta idzo kutepaf ko cafil vundevor jofpejo rukzomo atu latgij siwnig jelud fefez. Ehu net daf tirlaoh humeero lutujbas esjidok jisic ivu pekin ecemap jipi ceec sej. Relnizu coh jogtid dusco azufzi zak cuvevmo ecanew sos so ikdu moh asavamo zilivmuv ku cat az. Kup laz hen naoh win ded otigo ap bikba liwag armeno cowinri lojad iri. Fa ge laelinem oko ed uko vumew be wak pe ac kepefli takriz. Tamesif guj dizifi nonaabo cidvowuj pozrefe beipi doamkub depmij bud peototo lajopji.",
+    "bio": "Kowve pu jar buvwijoj kave kijlo ije ip ivkaj vop ja mihu. Juvubogi sijse wahel ufiim ju vunug ta ijuilviz me jain navboko ta rir zubtuze zeb. Malrozon oropilar bo zehho hadam ime zahjogwu popvujcas tospo alwos hub to leniv ej wus teh dirva efo."
+  },
+  "apiKey": "d690ab014d148e6cc056f3cdccd06550a3a52b27e23b1a5706d886ff9585c9ba",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
